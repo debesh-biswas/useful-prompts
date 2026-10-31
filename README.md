@@ -17,10 +17,11 @@ part of software development.
 
 | Domain | What's in it | Status |
 |---|---|---|
-| `ui-ux/` | UI audits, layout, interaction, accessibility, design systems | Coming soon |
-| `principles/` | UX laws and heuristics (Fitts, Hick, Jakob, …), each with a definition and its own prompt | Coming soon |
+| [`ui-ux/`](ui-ux/) | UI audits, layout, interaction, accessibility, design systems | 5 prompts |
+| [`principles/`](principles/) | UX laws and heuristics (Fitts, Hick, Jakob, …), each with a definition, its own prompt, and sources | 20 laws |
 | `frontend/` | Components, state, performance, framework-specific prompts | Coming soon |
 | `backend/` | APIs, data modelling, auth | Coming soon |
+| [`security/`](security/) | Security audits, auth, secrets, abuse prevention | 1 prompt |
 | `testing/` | Unit, integration, e2e | Coming soon |
 | `debugging/` | Finding and fixing bugs | Coming soon |
 | `devops/` | CI/CD, deployment, infrastructure | Coming soon |
